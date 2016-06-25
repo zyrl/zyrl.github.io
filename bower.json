@@ -1,0 +1,21 @@
+{
+  "name": "rhchen2.github.io",
+  "homepage": "https://github.com/rhchen2/rhchen2.github.io",
+  "authors": [
+    "Ryan Chen"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
