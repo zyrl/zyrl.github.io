@@ -9,14 +9,9 @@
 
 }
 
-.container {
-    position: relative;
-}
-
 img {
-    width: auto;
-    height: auto;
-    position: absolute;
+    position: absolute
+    top: 8px;
 }
 
 .black {
