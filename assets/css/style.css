@@ -11,7 +11,8 @@
 
 img {
     position: absolute;
-    top: 8px;
+    top: 0px;
+    left: 0px;
 }
 
 .black {
