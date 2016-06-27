@@ -1,8 +1,10 @@
 .main-header {
-    height: 40vh;
-    background-image: url(/assets/img/Zyrl-Background.png);
+    height: 30vh;
+    
+    /*background-image: url(/assets/img/Zyrl-Background.png);
     background-position: center center;
     background-size: cover;
+     */
 
 }
 
