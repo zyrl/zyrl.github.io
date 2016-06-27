@@ -1,9 +1,6 @@
 .main-header {
     height: 100vh;
-    
-    background-image: url(/assets/img/Space.jpeg);
-    background-position: center center;
-    background-size: cover;
+
 }
 
 .black {
